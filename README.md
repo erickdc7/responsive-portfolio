@@ -1,2 +1,4 @@
-# cd-responsive-portfolio-u2
-Complete Responsive Personal Portfolio Website - Using HTML, CSS &amp; Vanilla Javascript
+# Complete Responsive Personal Portfolio Website
+### This design belongs to [Coding Snow](https://www.youtube.com/@CodingSnow), you can see its video [here](https://youtu.be/G15xVfKwxLE).
+
+![preview img](/preview.png)
