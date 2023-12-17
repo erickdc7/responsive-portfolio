@@ -1,4 +1,4 @@
-# Complete Responsive Personal Portfolio Website
-### This design belongs to [Coding Snow](https://www.youtube.com/@CodingSnow), you can see the video [here](https://youtu.be/G15xVfKwxLE).
+# Personal Portfolio Website
+### This design is inspired by the work of [Coding Snow](https://www.youtube.com/@CodingSnow). Click [here](https://youtu.be/G15xVfKwxLE) to watch the video.
 
 ![preview img](/preview.png)
